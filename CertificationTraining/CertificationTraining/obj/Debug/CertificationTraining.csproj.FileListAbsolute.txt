@@ -1,0 +1,7 @@
+C:\CertificationTraining\CertificationTraining\CertificationTraining\bin\Debug\CertificationTraining.exe.config
+C:\CertificationTraining\CertificationTraining\CertificationTraining\bin\Debug\CertificationTraining.exe
+C:\CertificationTraining\CertificationTraining\CertificationTraining\bin\Debug\CertificationTraining.pdb
+C:\CertificationTraining\CertificationTraining\CertificationTraining\obj\Debug\CertificationTraining.exe
+C:\CertificationTraining\CertificationTraining\CertificationTraining\obj\Debug\CertificationTraining.pdb
+C:\CertificationTraining\CertificationTraining\CertificationTraining\obj\Debug\CertificationTraining.csprojAssemblyReference.cache
+C:\CertificationTraining\CertificationTraining\CertificationTraining\obj\Debug\CertificationTraining.csproj.CoreCompileInputs.cache
